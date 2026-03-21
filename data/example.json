@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/123456",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "currency": "RUR",
+    "description": "Разработка веб-приложений на Python",
+    "requirements": "Опыт работы с Django, Flask",
+    "employer": "IT Company"
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/789012",
+    "salary_from": 120000,
+    "salary_to": 200000,
+    "currency": "RUR",
+    "description": "Анализ данных и машинное обучение",
+    "requirements": "Python, pandas, scikit-learn",
+    "employer": "Data Corp"
+  }
+]
